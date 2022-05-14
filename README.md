@@ -1,7 +1,9 @@
-<h1 align="center">👋 Hi, I'm @Aditya Shinde</h1>
-<h3 align="center">A Passionate Web Developer</h3>
+<h1 align="center">👋 Hi, I'm ADITYA SHINDE @Aditya207git</h1>
+<h3 align="center">A Student and A Passionate Web Developer</h3>
 
 - 🌱 I’m currently pursuing **my Final Year of Engineering**
+
+- 📚 I'm currenlty deep diving into **Angular and React**
 
 - 📫 You can reach out to me on Gmail : **adityashinde207@gmail.com**
 
